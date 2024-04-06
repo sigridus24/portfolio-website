@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "emailjs": "^4.0.2",
+    "remixicon": "^3.4.0",
+    "scrollreveal": "^4.0.9"
+  }
+}
