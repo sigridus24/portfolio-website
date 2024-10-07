@@ -41,8 +41,8 @@ window.addEventListener('scroll', blurHeader)
 document.getElementById("downloadButton").addEventListener("click", function() {
 
     var downloadLink = document.createElement("a");
-    downloadLink.href = "assets/download/Sigridus Amwaalwa Resume.pdf";
-    downloadLink.download = "Sigridus Amwaalwa Resume.pdf";
+    downloadLink.href = "assets/download/sigridus.pdf";
+    downloadLink.download = "sigridus.pdf";
     downloadLink.click();
 });
 
